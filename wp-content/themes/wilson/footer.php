@@ -44,7 +44,7 @@
 
 				<p class="credits-right">
 
-					 &mdash; <a title="<?php _e( 'To the top', 'wilson' ); ?>" class="tothetop"><?php _e( 'Up', 'wilson' ); ?> &uarr;</a>
+					<a title="<?php _e( 'To the top', 'wilson' ); ?>" class="tothetop"><?php _e( 'Up', 'wilson' ); ?> &uarr;</a>
 
 				</p>
 
