@@ -884,6 +884,7 @@ html:lang(he-il) .rtl #wpadminbar *  {
 		text-align: center;
 		vertical-align: top;
 	}
+	#wpadminbar #wp-admin-bar-wp-logo{display: none;}
 
 	#wpadminbar #wp-admin-bar-wp-logo > .ab-item .ab-icon:before {
 		font: 28px/1 dashicons !important;
