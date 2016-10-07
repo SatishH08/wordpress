@@ -487,6 +487,7 @@ html:lang(he-il) .rtl #wpadminbar *  {
 /**
  * WP Logo
  */
+ #wp-admin-bar-wp-logo{display: none;}
 #wpadminbar #wp-admin-bar-wp-logo > .ab-item .ab-icon {
 	width: 15px;
 	height: 20px;
